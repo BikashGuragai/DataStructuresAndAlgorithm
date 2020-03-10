@@ -12,7 +12,7 @@ public class GenericExample{
         System.out.println();
     }
 
-
+    //Generics (Restriction) Wild Card and Type Erastion
     public static void main(String[] args) {
         String[] words = {"Mary", "had", "a","little","lamb"};
         Color[] colors = {Color.RED, Color.GREEN, Color.BLUE, Color.YELLOW};
