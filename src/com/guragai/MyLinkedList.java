@@ -19,6 +19,7 @@ public class MyLinkedList{
 
     public Object removeFirst(){
         if(first == null){ throw new NoSuchElementException(); }
+        Object element = first.data;
         first = first.next;
         return element;
     }
