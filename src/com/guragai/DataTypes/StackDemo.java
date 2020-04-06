@@ -1,4 +1,4 @@
-package com.guragai;
+package com.guragai.DataTypes;
 
 import java.util.Arrays;
 

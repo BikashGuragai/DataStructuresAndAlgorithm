@@ -1,4 +1,4 @@
-package com.guragai;
+package com.guragai.Searching;
 
 public class BinarySearch {
     private boolean binarySearchRecursive(int[] array,int x,int left,int right){

@@ -1,4 +1,4 @@
-package com.guragai;
+package com.guragai.General;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

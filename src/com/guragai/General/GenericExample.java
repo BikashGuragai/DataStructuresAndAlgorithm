@@ -1,6 +1,6 @@
-package com.guragai;
+package com.guragai.General;
 
-import com.sun.xml.internal.bind.v2.TODO;
+
 
 import java.awt.*;
 

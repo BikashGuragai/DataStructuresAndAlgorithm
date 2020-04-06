@@ -1,6 +1,4 @@
-package com.guragai;
-
-import java.lang.reflect.Parameter;
+package com.guragai.General;
 
 class Pair<T,S> {
 

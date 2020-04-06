@@ -1,4 +1,4 @@
-package com.guragai;
+package com.guragai.General;
 
 public class StringBackWard {
     public void reverseString(String customString){
